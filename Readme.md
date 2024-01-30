@@ -2,6 +2,7 @@
 
 * Студент: [Евгений Бобровник](https://up.htmlacademy.ru/htmlcss/39/user/2349635).
 * Наставник: [Дарья Шестерина](https://htmlacademy.ru/profile/id221124).
+* Сайт: [Мой проект «Седона»](https://spireng.github.io/2349635-sedona-39/).
 
 ---
 
